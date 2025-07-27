@@ -10,4 +10,4 @@
   <ol>EXIT</ol>
 </ul>
 <h1>START MACHINE</h1>
-<img scr="">
+![ATM Screenshot](./Example_imagges/Screenshot%202025-07-27%20213054.png)
